@@ -10,4 +10,8 @@ CSVのIOを処理するクラスだが、現状Inputしかない。残念。
 
 ### ・Gss
 Google SpreadSheetに接続してBook名、シート名を指定してオブジェクトを取得する感じ。秘密鍵が必要なのでここらへんをみて設定しよう。
+https://qiita.com/koyopro/items/d8d56f69f863f07e9378
+
+### ・FtpCtl
+FTP接続に必要な操作やディレクトリ操作などまとめている。
 
